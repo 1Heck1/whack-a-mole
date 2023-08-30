@@ -30,7 +30,10 @@ overflow: hidden;
   left: 55px;
   margin-top: 243px;
   transition: .25s;
+}
 
+.pf {
+  display: grid;
 }
 
 
