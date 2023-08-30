@@ -40,11 +40,11 @@ overflow: hidden;
 }
 
 .wgs__mole-head--whacked {
-  border: blue 20px;
-  border-radius: 100px;
-  height: 100px;
   width: 100px;
-  animation:;
+  height: 100px;
+  background-color: red;
+  animation-name: bounce;
+  animation-duration: 4s;
 }
 
 
