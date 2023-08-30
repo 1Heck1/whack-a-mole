@@ -1,4 +1,43 @@
-/* Your code here */
+
+
+.pf {
+  display: grid;
+}
+
+.wgs {
+display: inline-block;
+height: 241px;
+position: relative;
+width: 320px;
+overflow: hidden;
+}
+
+.wgs__mole-head {
+  height: 178px;
+  position: absolute;
+  width: 188px;
+  left: 55px;
+
+}
+
+.wgs__dirt-pile {
+  height: 110px;
+  position: absolute;
+  width: 320px;
+  top: 113px;
+
+}
+
+.wgs__mole-head--hidden {
+  height: 178px;
+  position: absolute;
+  width: 188px;
+  left: 55px;
+  margin-top: 243px;
+  transition: .25s;
+
+}
+
 
 
 
